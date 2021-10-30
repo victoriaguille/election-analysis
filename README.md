@@ -1,6 +1,6 @@
 # Election_Analysis
-
 ##Project Overview
+#### Two employees of the Colorado Board of Elections has been tasked with performing an election audit of a recent local congressional election using Python. While performing the election audit, the election commission wants the results broken down into a simple report with the results broken down by both candidates and counties. The election results data is stored in a text file 
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
 
 1. Calculate the total number of votes cast. 
