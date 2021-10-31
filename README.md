@@ -4,19 +4,21 @@
 
 ## Election Audit Results 
 #### Below are the following findings from the audit. 
-    - There were ____ votes cast in the elections. 
+    - There were 369,711 votes cast in the elections. 
     -The counties involved in the election results were:
         - Arapahoe
         - Jefferson
         - Denver
-    - Denver county had the largest turnout with ____ votes. 
+    - Denver county had the largest turnout with 82.8% of the vote and 306,055 number of votes. 
     - The candidates up for election were: 
-        - Denise
-        - Raymon
-        - 
+        - Charles Casper Stockham
+        - Diana DeGette
+        - Raymon Anthony Doane
     - The winner of the election was: 
-        - Denise _, who received ___% of the vote and ___ number of votes. 
+        - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
         
+## Election Audit Summary
+#### the shared python code is simple and straightforward. easy to define needed variables. only a few nested for and if loops. can be used for both small elections and large elections. can keep same variables, just add new csv file. if want to track other variables, simply plug them in. 
 
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
 
