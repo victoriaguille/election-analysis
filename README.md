@@ -18,6 +18,10 @@
         - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
         
 ## Election Audit Summary
-#### the shared python code is simple and straightforward. easy to define needed variables. only a few nested for and if loops. can be used for both small elections and large elections. can keep same variables, just add new csv file. if want to track other variables, simply plug them in such as losing candidate instead of the winner. 
+#### The shared Python code for this particular audit is relatively simple and straightforward. Creating needed variables pushes the code forward into several with, for, and if statements. Each statement either builds upon itself or creates new ways to break down the results in a readable and useful format for the audit from a long string of names and counties provided in a CSV file. Each nested statement allows for a code that can be used for both large or small samples, the only thing needing to change would be the opening of a specific file path at the beginning of the code. 
+### Proposal for Additional Changes
+#### In this particular audit, the main emphais was on who won the election. However, depending on the purpose of looking at this election data or any others, it may be of use to look at who lost or which county had the lowest turnout. The Python code that has been shared is written to pull the winning stats from the CSV file, with variables such as "winning_candidate" and "winning_percentage."
+
+can be used for both small elections and large elections. can keep same variables, just add new csv file. if want to track other variables, simply plug them in such as losing candidate instead of the winner. 
 
 (insert example screenshots of changes)
