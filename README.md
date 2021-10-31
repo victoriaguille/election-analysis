@@ -1,6 +1,9 @@
 # Election_Analysis
-##Project Overview
-#### Two employees of the Colorado Board of Elections has been tasked with performing an election audit of a recent local congressional election using Python. While performing the election audit, the election commission wants the results broken down into a simple report with the results broken down by both candidates and counties. The election results data is stored in a text file 
+## Project Overview
+#### Two employees of the Colorado Board of Elections have been tasked with performing an election audit of a recent local congressional election using Python 3.6.1 and Visual Studio Code, 1.38.1. While performing the election audit, the election commission requires the results to be broken down into a simple report with the results displayed by both candidates and counties. The election results data, stored in a text file, are much too large and cumbersome for any one person to go through by hand, resulting in the need for Python. The Python code, being written and run in Visual Studio Code, is then used to pull the necessary information using lines of code. This method made going through the original CSV file with the election results possible. Using the new lines of Python code, we are able to print the audit results to the terminal and save them to a text file. 
+
+
+
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
 
 1. Calculate the total number of votes cast. 
