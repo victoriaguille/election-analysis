@@ -25,6 +25,6 @@
 #### ![losing county code](https://github.com/victoriaguille/election-analysis/blob/main/resources/losing_county_code.png)
 #### If the election commission would like to see this change printed to the text file meant to record the audit results, one would need to replace the "largest_county_turnout" with a new print and txt_file.write statement. A quick and efficient way to do so would be to use "lowest_county_turnout" as the variable name and then slowly replace anything regarding a "winning" statement with the new "losing_county" line. It is best not to forget to make corresponding changes to the text file display portion. Below are these print outs and changes performed in Visual Studio Code. 
 #### ![losing code](https://github.com/victoriaguille/election-analysis/blob/main/resources/smallest_county_print_code.png)
-#### ![print out]()
+#### ![print out](https://github.com/victoriaguille/election-analysis/blob/main/resources/smallest_county_interactive_display.png)
 #### Overall, the structure of the Python code is solid and would require very few changes if it were to be used for larger elections as the code itself is set up to create and add to pre-defined lists. If there were any changes needed to be made, it would not be difficult as, again, much of the Python code is built around not knowing the exact values or range of values from a CSV file. This Python code could potentially be used as is or with minimal refactoring for quite some time if it is being used for the sole purpose of election audits. 
 
